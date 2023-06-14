@@ -1,5 +1,5 @@
-## Python Challenge
-# Module 3
+# Python Challenge
+## Module 3
 For this project, I used two datasets to practice Python coding.
 
 The first dataset featured banking data over several years. My program generates a summary of profit changes!
